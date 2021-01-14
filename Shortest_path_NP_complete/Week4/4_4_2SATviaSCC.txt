@@ -1,0 +1,1 @@
+./Debug/vertex.cpp.o ./Debug/main.cpp.o

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Course4" Database="Course4.tags" Version="10.0.0">
+  <Project Name="Assignment1_4_FloydWarShall" Path="Week1/Assignment1_4_FloydWarShall.project" Active="Yes"/>
+  <Project Name="Assignment2_4_TSP" Path="Week2/Assignment2_4_TSP.project" Active="No"/>
+  <Project Name="Assignment3_4ApproxTSP" Path="Week3/Assignment3_4ApproxTSP.project" Active="No"/>
+  <Project Name="4_4_2SATviaSCC" Path="Week4/4_4_2SATviaSCC.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="4_1_FloydWarshall" ConfigName="Debug"/>
+      <Project Name="4_2_TSP" ConfigName="Debug"/>
+      <Project Name="4_3_AprroxTSP" ConfigName="Debug"/>
+      <Project Name="4_4_2SATviaSCC" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="4_1_FloydWarshall" ConfigName="Release"/>
+      <Project Name="4_2_TSP" ConfigName="Release"/>
+      <Project Name="4_3_AprroxTSP" ConfigName="Release"/>
+      <Project Name="4_4_2SATviaSCC" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
