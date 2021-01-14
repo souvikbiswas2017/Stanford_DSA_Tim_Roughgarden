@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Course3" Database="" Version="10.0.0">
+  <Project Name="Assignment1_3_1st_JobScheduling" Path="Week1/Assignment1_3_1st_JobScheduling.project" Active="Yes"/>
+  <Project Name="Assignment2_3_1st_KruskalMST" Path="Week2/Assignment2_3_1st_KruskalMST.project" Active="No"/>
+  <Project Name="Assignment3_3_WeightedIndSet" Path="Week3/Assignment3_3_WeightedIndSet.project" Active="No"/>
+  <Project Name="Assignment4_3_Knapsack" Path="Week4/Assignment4_3_Knapsack.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="3_1_1st_JobScheduling" ConfigName="Debug"/>
+      <Project Name="3_2_1st_KruskalMST" ConfigName="Debug"/>
+      <Project Name="3_3_2nd_WeightedIndSet" ConfigName="Debug"/>
+      <Project Name="3_4_Knapsack" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="3_1_1st_JobScheduling" ConfigName="Release"/>
+      <Project Name="3_2_1st_KruskalMST" ConfigName="Release"/>
+      <Project Name="3_3_2nd_WeightedIndSet" ConfigName="Release"/>
+      <Project Name="3_4_Knapsack" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
