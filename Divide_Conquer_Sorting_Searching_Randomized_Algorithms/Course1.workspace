@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Course1" Database="Course1.tags" Version="10.0.0">
+  <Project Name="Assignment1" Path="Week1/Assignment1.project" Active="No"/>
+  <Project Name="Assignment2" Path="Week2/Assignment2.project" Active="No"/>
+  <Project Name="Assignment3" Path="Week3/Assignment3.project" Active="No"/>
+  <Project Name="Assignment4" Path="Week4/Assignment4.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1_1_KaratsubaMultiply" ConfigName="Debug"/>
+      <Project Name="1_2_InversionCount_using_mergesort" ConfigName="Debug"/>
+      <Project Name="1_3_quicksort" ConfigName="Debug"/>
+      <Project Name="1_4_karger_min_cut" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1_1_KaratsubaMultiply" ConfigName="Release"/>
+      <Project Name="1_2_InversionCount_using_mergesort" ConfigName="Release"/>
+      <Project Name="1_3_quicksort" ConfigName="Release"/>
+      <Project Name="1_4_karger_min_cut" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
