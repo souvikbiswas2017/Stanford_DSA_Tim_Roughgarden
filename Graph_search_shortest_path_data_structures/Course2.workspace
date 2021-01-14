@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Course2" Database="Course2.tags" Version="10.0.0">
+  <Project Name="Assignment1_2" Path="Week1/Assignment1_2.project" Active="No"/>
+  <Project Name="Assignment2_2" Path="Week2/Assignment2_2.project" Active="No"/>
+  <Project Name="Assignment3_2" Path="Week3/Assignment3_2.project" Active="No"/>
+  <Project Name="Assignment4_2" Path="Week4/Assignment4_2.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="2_1_Kosaraju" ConfigName="Debug"/>
+      <Project Name="2_2_Djikstra" ConfigName="Debug"/>
+      <Project Name="2_3_median_using_heap" ConfigName="Debug"/>
+      <Project Name="2_4_Hashtable" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="2_1_Kosaraju" ConfigName="Release"/>
+      <Project Name="2_2_Djikstra" ConfigName="Release"/>
+      <Project Name="2_3_median_using_heap" ConfigName="Release"/>
+      <Project Name="2_4_Hashtable" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
