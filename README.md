@@ -1,1 +1,1 @@
-# Stanford_DSA_Tim_Roughgarden
+# Solutions to programming assignments of DSA course by Tim Roughgarden in coursera
